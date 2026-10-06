@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Akshay%20Kumar&fontSize=50&fontColor=c0caf5&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents&descAlignY=58&descSize=18" width="100%" alt="Akshay Kumar, AI Engineer, LLM Agents"/>
 
-<a href="https://github.com/Akshay-professor"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=I+build+LLM+agents+that+take+real+actions;Hand-written+agent+loops%2C+no+black+boxes;RAG+%C2%B7+Tool+calling+%C2%B7+Human-in-the-loop+%C2%B7+Evals;Preparing+for+GSoC+2027" alt="I build LLM agents that take real actions"/></a>
+<a href="https://github.com/Akshay-professor"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=I+build+LLM+agents+that+take+real+actions;Hand-written+agent+loops%2C+no+black+boxes;RAG+%C2%B7+Tool+calling+%C2%B7+Human-in-the-loop+%C2%B7+Evals;Measuring+what+LLMs+get+wrong%2C+step+by+step" alt="I build LLM agents that take real actions"/></a>
 
 <p>
   <a href="https://www.linkedin.com/in/akshay-poddar-4299a5243/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wwwakdev9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Akshay-professor&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -15,10 +16,11 @@
 
 I'm an AI engineer who builds **LLM agents that do things, not just chat**: tool calling, retrieval, human approval steps, and the evaluation work that shows whether they're actually reliable.
 
+- 💼 Worked with **Handshake AI** on LLM training and evaluation (private work)
 - 🔭 Building agentic support systems with hand-written agent loops
 - 🧪 Studying how hallucinations propagate through multi-step LLM pipelines
-- 🌱 Getting into open-source AI and preparing for **GSoC 2027**
 - ♟️ Competitive programmer (C++) and chess player
+- 📫 Reach me at **wwwakdev9@gmail.com**
 
 ## Featured projects
 
@@ -29,6 +31,17 @@ I'm an AI engineer who builds **LLM agents that do things, not just chat**: tool
 | [**E-Commerce Support Agent**](https://github.com/Akshay-professor/E-Commerce-Customer-Support-Agent) | Grounded, tool-calling support agent with per-user data scoping, response validation and built-in observability. | LangGraph · LangChain · FAISS · Streamlit |
 | [**AI Meeting Assistant**](https://github.com/Akshay-professor/AI-Video-Assistant-RAG) | Turns a recording or YouTube link into a summary, action items and a transcript you can chat with. | Whisper · LLM chains · RAG |
 | [**Myntra Market Intelligence**](https://github.com/Akshay-professor/Myntra-Market-Intelligence) | Plain-English shopping and business questions over a ~100,000-product catalog. | LLM · Structured search · Power BI |
+
+## Skills
+
+| Area | Skills |
+|---|---|
+| **LLM agents** | Agent loops from scratch · Tool / function calling · Human-in-the-loop approvals · Multi-step pipelines · Prompt engineering |
+| **Retrieval** | RAG · Vector search (FAISS) · Structured + semantic search · Transcription pipelines (Whisper) |
+| **Evaluation** | LLM evals · Hallucination detection · Response validation · Observability |
+| **Frameworks** | LangGraph · LangChain · Streamlit · React · Node.js |
+| **Data** | Python data analysis · Power BI · Excel |
+| **Core CS** | Data structures & algorithms · Competitive programming (C++) |
 
 ## Tech stack
 
