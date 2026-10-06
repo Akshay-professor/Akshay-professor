@@ -27,7 +27,7 @@ I'm an AI engineer who builds **LLM agents that do things, not just chat**: tool
 | Project | What it does | Built with |
 |---|---|---|
 | [**HelpDesk Copilot**](https://github.com/Akshay-professor/helpdesk-copilot) | Customer-support agent that takes real actions and knows when to stop and ask a human. Hand-written agent loop, no LangChain or CrewAI. | JavaScript · RAG · Human-in-the-loop |
-| [**Hallucination Propagation Interceptor**](https://github.com/Akshay-professor/antisleep) | Step-level hallucination detection for multi-step LLM pipelines. Finding: observing is nearly free, but correcting inline drops accuracy by 47 points. | Python · LLM evaluation |
+| [**Hallucination Propagation Interceptor**](https://github.com/Akshay-professor/hallucination-interceptor) | Step-level hallucination detection for multi-step LLM pipelines. Finding: observing is nearly free, but correcting inline drops accuracy by 47 points. | Python · LLM evaluation |
 | [**E-Commerce Support Agent**](https://github.com/Akshay-professor/E-Commerce-Customer-Support-Agent) | Grounded, tool-calling support agent with per-user data scoping, response validation and built-in observability. | LangGraph · LangChain · FAISS · Streamlit |
 | [**AI Meeting Assistant**](https://github.com/Akshay-professor/AI-Video-Assistant-RAG) | Turns a recording or YouTube link into a summary, action items and a transcript you can chat with. | Whisper · LLM chains · RAG |
 | [**Myntra Market Intelligence**](https://github.com/Akshay-professor/Myntra-Market-Intelligence) | Plain-English shopping and business questions over a ~100,000-product catalog. | LLM · Structured search · Power BI |
